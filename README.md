@@ -62,7 +62,7 @@ node deployCampaignFactory.js
 
 ## Demo
 
-<img src="/demo.gif" width="70">
+<img src="/demo.gif" width="970">
 
 
 
