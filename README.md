@@ -1,11 +1,11 @@
 
 # KickStarter Solidity Contract
 
-Allows users to create a unique campaigns and generate funds in ether, every individual who contributes to your campaign becomes and approver. In order to use funds the manager needs to create fund usage request which needs to be approved by the contributors.
+Allows users to create a unique campaign and generate funds in ether, every individual who contributes to your campaign becomes an approver. In order to use funds the campaign manager needs to create fund usage request which needs to be approved by the contributors/approvers.
 
 # About Contract
 
-I have a base contract called Campaign and Campaign Factory. First when i started with contract i wrote my own contract factory which deploys instances of my existing Campaign Contract which uses lots gas which is was not the right way to do it.
+I have a base contract called Campaign and Campaign Factory. First when i started with contracts i wrote my own contract factory which deploys instances of my existing Campaign Contract which costs lots gas which is was not the right way to do it.
 
 OLD Campaign Factory
 
